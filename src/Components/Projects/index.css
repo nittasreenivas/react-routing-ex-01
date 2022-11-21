@@ -1,0 +1,12 @@
+.each-project {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.each-project a {
+  text-decoration: none;
+  color: sienna;
+}

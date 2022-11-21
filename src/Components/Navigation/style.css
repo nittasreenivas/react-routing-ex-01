@@ -1,0 +1,17 @@
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.nav-container {
+  background: salmon;
+  padding: 16px;
+}
+
+.nav-list a.active {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
